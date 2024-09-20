@@ -1,11 +1,11 @@
 <?php
 
-namespace Akhyra\TradingEngine\DependencyInjection;
+namespace Acassan\TradingEngine\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 
-class AkhyraTradingEngineExtension extends Extension
+class AcassanTradingEngineExtension extends Extension
 {
     public function load(array $configs, ContainerBuilder $container)
     {

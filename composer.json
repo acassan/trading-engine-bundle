@@ -1,5 +1,5 @@
 {
-    "name": "akhyra/trading-engine",
+    "name": "acassan/trading-engine",
     "type": "symfony-bundle",
     "require": {
         "php": ">7",
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Akhyra\\TradingEngine\\": "src/"
+            "Acassan\\TradingEngine\\": "src/"
         }
     },
     "authors": [
