@@ -1,5 +1,6 @@
 {
     "name": "acassan/trading-engine",
+    "license": "MIT",
     "type": "symfony-bundle",
     "require": {
         "php": ">7",
