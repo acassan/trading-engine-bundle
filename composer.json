@@ -1,0 +1,20 @@
+{
+    "name": "akhyra/trading-engine",
+    "type": "symfony-bundle",
+    "require": {
+        "php": ">7",
+        "symfony/dependency-injection": "^7.1",
+        "symfony/http-kernel": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Akhyra\\TradingEngine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexis",
+            "email": "contact@alexiscassan.fr"
+        }
+    ]
+}
